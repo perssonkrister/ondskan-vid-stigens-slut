@@ -2,9 +2,9 @@
    "id":"ondskan-vid-stigens-slut",
    "title":"Ondskan vid stigens slut",
    "description":"Äventyrsmodul - Endast för personligt bruk",
-   "url":"https://github.com/Rangertheman/ondskan-vid-stigens-slut",
-   "manifest":"https://raw.githubusercontent.com/Rangertheman/ondskan-vid-stigens-slut/master/module.json",
-   "download":"https://github.com/Rangertheman/ondskan-vid-stigens-slut/archive/master.zip",
+   "url":"https://github.com/perssonkrister/ondskan-vid-stigens-slut",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/ondskan-vid-stigens-slut/master/module.json",
+   "download":"https://github.com/perssonkrister/ondskan-vid-stigens-slut/archive/master.zip",
    "authors":[
       {
          "name":"Krister Persson (Rangertheman)",
@@ -14,10 +14,10 @@
          }
       }
    ],
-   "version":"0.1.2",
+   "version":"0.1.3",
    "compatibility":{
       "minimum":"12",
-      "verified":"12"
+      "verified":"12.331"
    },
    "relationships":{
       "systems":[
@@ -25,7 +25,8 @@
             "id":"dragonbane",
             "type":"system",
             "compatibility":{
-               "minimum":"1.9.2"
+               "minimum":"1.9.2",
+               "verified":"1.9.3"
             }
          }
       ]
